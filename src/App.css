@@ -51,7 +51,11 @@ nav {
 	font-family: 'poppins', sans-serif;
 
 }
-
+.logo-pic {
+	position: relative;
+    float: left;
+    background-size: small;
+}
 .logo {
 	color:rgb(44, 54, 38);
 	text-transform: uppercase;
